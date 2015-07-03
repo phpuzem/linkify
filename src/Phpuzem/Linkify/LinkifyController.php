@@ -13,8 +13,7 @@ class LinkifyController extends Controller {
 
     public function make()
     {
-        $linkify = new LinkifyController();
-        return $linkify;
+        return new LinkifyController();
     }
 
     public function expire($expire)
