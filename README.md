@@ -20,7 +20,7 @@ return [
 
 
     'aliases' => [
-        'Linkify'   => Phpuzem\Linkify\Facades\LinkifyFacade::class,
+        'Linkify'   => Phpuzem\Linkify\Facades\Linkify::class,
     ],
 ];
 ```
