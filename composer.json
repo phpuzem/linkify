@@ -1,0 +1,30 @@
+{
+    "name": "phpuzem/linkify",
+    "description": "Amazon S3 Hashed URL Generator",
+    "keywords": [
+        "amazon",
+        "s3",
+        "laravel 5",
+        "s3 link generator",
+        "laravel",
+        "amazon s3",
+        "amazon s3 hashed url",
+        "url generator",
+        "laravel 5.1"
+    ],
+    "homepage": "https://github.com/phpuzem/linkify",
+    "authors": [
+        {
+            "name": "Halil Coşdu",
+            "email": "info@phpuzem.com"
+        }
+    ],
+    "license": "MIT License",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Phpuzem\\Linkify\\": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
